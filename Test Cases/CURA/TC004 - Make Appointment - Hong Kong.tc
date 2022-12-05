@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 - Make Appointment - Hong Kong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb2df486-4627-41c5-bf36-9601bf3daf63</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05238671-d590-4e5b-8c3f-32fc4e7c698b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>05238671-d590-4e5b-8c3f-32fc4e7c698b</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>

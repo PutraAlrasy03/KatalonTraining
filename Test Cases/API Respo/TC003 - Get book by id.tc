@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003 - Get book by id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd924ac5-9dc0-4c82-8648-9a7c77486607</testCaseGuid>
+</TestCaseEntity>

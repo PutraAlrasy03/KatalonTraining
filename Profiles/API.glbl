@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>API</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dd570323c251a26c24d2b844d506c93e5b4fa83d648b6626907fb3552089a55e'</initValue>
+      <name>Token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'b92dc3e5c3ab194f86c91304d743f27a402c4cc2c127e960a4cecb077932f613'</initValue>
+      <name>Token2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mZvh1cZEUlD6adZxEWsRj'</initValue>
+      <name>orderID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

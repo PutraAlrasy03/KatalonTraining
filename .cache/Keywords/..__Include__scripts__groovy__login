@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0BC01C57F4E6E463188C209904E0B813",
+  "keywordClasses": [
+    {
+      "name": "MyStepDefinition",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

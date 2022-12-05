@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006 - Make Appointment - Tokyo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5209577-e617-4958-968c-1e2728fbc47d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6f920d8-9042-4e9f-84b4-28c195e7f333</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>c6f920d8-9042-4e9f-84b4-28c195e7f333</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>

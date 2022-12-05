@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>sign up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3a4db59-bb34-412e-8bad-97a529b52f1b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bcab88bd-acab-49ed-b639-8f5b2f8b7d59</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/demoblaze</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bcab88bd-acab-49ed-b639-8f5b2f8b7d59</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>96ab718f-a09d-46c8-9749-2e958651bdcc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>bcab88bd-acab-49ed-b639-8f5b2f8b7d59</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>c8ff9f40-5e24-4d55-be2f-2b58cd4d37db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96ab718f-a09d-46c8-9749-2e958651bdcc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8ff9f40-5e24-4d55-be2f-2b58cd4d37db</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

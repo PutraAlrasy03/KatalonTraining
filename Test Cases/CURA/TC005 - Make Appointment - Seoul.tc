@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005 - Make Appointment - Seoul</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7423a6b3-d3f4-44ea-b814-c25286ffd625</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5e4c2a8-6f34-4f78-b3b5-b02aaf858e68</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d5e4c2a8-6f34-4f78-b3b5-b02aaf858e68</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>make appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd93c703-5104-487c-9fd8-73d0e81056a5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9d28ca4-36aa-48bf-befe-ec46313d2ae7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78a6da6f-af7d-41c7-ae78-70efb982ab6d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9d28ca4-36aa-48bf-befe-ec46313d2ae7</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78a6da6f-af7d-41c7-ae78-70efb982ab6d</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+</TestCaseEntity>
